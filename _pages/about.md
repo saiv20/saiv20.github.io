@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: MS in Robotics at Northeastern University | balaji.saiv@northeastern.edu 
+subtitle: <strong> MS in Robotics </strong> | balaji.saiv@northeastern.edu 
 
 profile:
   align: right
@@ -17,4 +17,30 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a graduate student at Northeastern University, where I am pursuing my Master's in Robotics. My interests primarily lie in Vision, Navigation, and Control of Autonomous Systems. I previously worked as a Project Research Assistant in the robotics group at TIH-IoT, IIT Bombay. I completed my Bachelor's degree (B.E.) in Mechanical Engineering with a Minor in Robotics and Automation from BITS Pilani Hyderabad Campus.
+Hello there!
+<p align="justify">
+I am a graduate student at Northeastern University, where I am pursuing my Master's in Robotics. My interests primarily lie in Motion Planning and Computer Vision. At Northeastern, I am actively delving into the intricacies of autonomous systems, seeking a profound understanding of their elements. Currently, I am looking for Co-op opportunities starting <strong>Summer 2024</strong>.
+</p>
+<p align="justify">
+In the course of my previous professional roles, I actively engaged in <strong>Path Planning and Control for Autonomous Systems</strong>. A significant portion of my responsibilities involved leveraging Robot Operating System (ROS) and Python to design and implement solutions.  
+</p>
+<p align="justify">
+I pursued my Bachelor's in Mechanical Engineering with a Minor in Robotics and Automation from Birla Institute of Technology and Science, Pilani. During this time, I worked on applications of Artificial Intelligence in Mechanical Systems.   
+</p>
+
+<div class="row">
+
+  
+  <div class="col-md-5">
+    <h3>Interests</h3>
+    <ul class="ul-interests">
+      
+      <li>Robotics</li>
+      
+      <li>Computer Vision</li>
+      
+      <li>Deep Learning</li>
+      
+    </ul>
+  </div>
+</div>

@@ -9,5 +9,6 @@ description:
 toc:
   sidebar: left
 ---
-
-<embed src="{{ site.baseurl }}/assets/pdf/Sai_Resume.pdf" width="100%" height="700" type='application/pdf'> 
+<script>
+    window.location.replace("/assets/pdf/Sai_Resume.pdf");
+</script>
