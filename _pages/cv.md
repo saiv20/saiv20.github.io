@@ -10,5 +10,5 @@ toc:
   sidebar: left
 ---
 <script>
-    window.location.replace("/assets/pdf/Sai_Resume.pdf");
+    window.location.replace("/assets/pdf/Sai_Venkatesh_Balaji_Resume.pdf");
 </script>
